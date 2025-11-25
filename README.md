@@ -10,4 +10,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=eternal-bits&theme=onedark)](https://github.com/eternal-bits)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eternal-bits&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=eternal-bits)
-<img src="https://tenor.com/view/ao-t-attack-on-titan-erwin-smith-gif-15315801926421082922" width="300"/>
+<img src="https://tenor.com/spyHlTY48jm.gif" width="300"/>
