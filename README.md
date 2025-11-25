@@ -10,6 +10,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=eternal-bits&theme=onedark)](https://github.com/eternal-bits)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eternal-bits&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=eternal-bits)
-
-![ao-t-attack-on-titan](https://github.com/user-attachments/assets/f744eb73-d5c6-499f-9eef-6a54ee01779e)
-<img src="https://github.com/user-attachments/assets/f744eb73-d5c6-499f-9eef-6a54ee01779e" width="250">
+<img src="https://github.com/user-attachments/assets/f744eb73-d5c6-499f-9eef-6a54ee01779e" width="250" style="border-radius: 10px;">
