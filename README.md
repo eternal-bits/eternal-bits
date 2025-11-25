@@ -1,5 +1,6 @@
 ### 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eternal-bits&show_icons=true&theme=transparent)
+![rishi](https://github.com/user-attachments/assets/65461cf1-ad32-443c-a645-b248ea73a7f8)
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,4 +12,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=eternal-bits)
 
 ![ao-t-attack-on-titan](https://github.com/user-attachments/assets/f744eb73-d5c6-499f-9eef-6a54ee01779e)
-![rishi](https://github.com/user-attachments/assets/65461cf1-ad32-443c-a645-b248ea73a7f8)
+<img src="https://github.com/user-attachments/assets/f744eb73-d5c6-499f-9eef-6a54ee01779e" width="250">
